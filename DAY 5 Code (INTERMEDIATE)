@@ -1,7 +1,6 @@
 /// https://www.codechef.com/practice/LP1TO201/problems/HOOPS
 #include <iostream>
 using namespace std;
-
 int main() {
     
     int t;
